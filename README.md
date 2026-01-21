@@ -2,5 +2,5 @@
 With final marks:
 - Assignment1: 90
 - Assignment2: 85
-- Assignment3: waiting for release
+- Assignment3: 90
 - Assignment4: waiting for release
